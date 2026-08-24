@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Atik-Shahriar007's GitHub profile" src="dark_mode.svg" />
+</picture>
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF0,100:6DD5FA&height=200&section=header&text=Hi%20there,%20I'm%20Atik%20Shahriar%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </h1>
